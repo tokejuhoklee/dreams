@@ -1,4 +1,4 @@
-# dreams
+# Dreams
 Datavisualisation of my sleep, and activity data
 Made in Processing, and data pulled from JSON file.
 
